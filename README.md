@@ -1,6 +1,6 @@
 # 📄 Rapport de Stage – Master 1 MTI3D
 
-Ce dépôt contient les pages numérisées de mon rapport de stage réalisé durant l'année 2024–2025 dans le cadre du Master MTI3D.
+Ce dépôt contient les pages numérisées de mon rapport de stage réalisé ( non terminé ) durant l'année 2024–2025 dans le cadre du Master MTI3D.
 
 
 
