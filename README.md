@@ -1,4 +1,4 @@
-## 📄 Rapport de Stage – M1 MTI3D
+## 📄 Internship Report – M1 MTI3D 
 
 <p align="center">
   <img src="https://github.com/MansLeoo/MathLearning/blob/main/img/M1_MTI3D_24-25_rapport_stage_ANG_Mans_Léo_page-0000.jpg?raw=true">
